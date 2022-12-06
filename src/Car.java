@@ -1,5 +1,5 @@
-public class Car {
-    String color;
-    String mark;
-    String model;
+public class Car extends Engine {
+    private String color;
+    private String mark;
+    private String model;
 }
